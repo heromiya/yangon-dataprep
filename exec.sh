@@ -1,0 +1,8 @@
+#! /bin/bash
+
+LATMIN=96.04
+LONMIN=16.73
+LATMAX=96.25
+LONMAX=16.94
+
+make Yangon-MCD12Q1.tif
